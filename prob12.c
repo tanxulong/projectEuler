@@ -42,7 +42,7 @@ int main()
 				counts++;
 			}
 		}
-		//fprintf(fd, "%d %d\n", sum, counts);
+		fprintf(fd, "%d %d\n", sum, counts);
 		//printf("%d\n", counts);
 	}
 	printf("%d %d\n", sum, counts);
